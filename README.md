@@ -2,7 +2,7 @@
 
   <img src="https://files.catbox.moe/qa5z2g.png" width=600 height=182>
   <br>
-  w2i, usually offtab
+  <b>w2i</b> usually offtab
   <br>
     <br>
   <a href="https://rentry.co/wemmbu">rentry</a> 
